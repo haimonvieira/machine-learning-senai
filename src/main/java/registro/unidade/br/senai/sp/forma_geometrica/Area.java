@@ -1,4 +1,4 @@
-package forma_geometrica;
+package registro.unidade.br.senai.sp.forma_geometrica;
 
 public class Area {
 

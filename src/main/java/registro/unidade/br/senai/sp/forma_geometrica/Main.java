@@ -1,4 +1,4 @@
-package forma_geometrica;
+package registro.unidade.br.senai.sp.forma_geometrica;
 
 import javax.swing.*;
 import java.util.Arrays;
@@ -13,7 +13,7 @@ public class Main {
         double areaFormaGeometrica = 0;
         String escolha = "";
 
-        String[] formasGeometricas = {"triangulo", "quadrado", "retangulo", "circulo", "pentagono"};
+        String[] formasGeometricas = {"Triangulo", "Quadrado", "Retangulo", "Circulo", "Pentagono"};
 
         while (!escolha.equalsIgnoreCase("n")) {
 

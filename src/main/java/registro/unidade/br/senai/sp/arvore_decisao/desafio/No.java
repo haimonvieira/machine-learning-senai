@@ -1,4 +1,4 @@
-package registro.unidade.br.senai.sp.arvore_decisao;
+package registro.unidade.br.senai.sp.arvore_decisao.desafio;
 
 /*
 Aqui é feito a estrutura do nó da árvore da decisão.

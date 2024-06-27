@@ -1,8 +1,8 @@
-package regressao_csv;
+package registro.unidade.br.senai.sp.regressao_csv;
 
-import regressao_csv.file.ReadFile;
-import regressao_csv.chart.Chart;
-import regressao_csv.regression.Regression;
+import registro.unidade.br.senai.sp.regressao_csv.regression.Regression;
+import registro.unidade.br.senai.sp.regressao_csv.file.ReadFile;
+import registro.unidade.br.senai.sp.regressao_csv.chart.Chart;
 
 import java.util.List;
 

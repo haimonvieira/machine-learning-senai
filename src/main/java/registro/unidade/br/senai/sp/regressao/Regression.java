@@ -1,4 +1,4 @@
-package regressao;
+package registro.unidade.br.senai.sp.regressao;
 
 //Este import foi usado um .jar neste link: https://search.maven.org
 

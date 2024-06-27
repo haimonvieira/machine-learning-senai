@@ -1,4 +1,4 @@
-package regressao_csv.chart;
+package registro.unidade.br.senai.sp.regressao_csv.chart;
 
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
