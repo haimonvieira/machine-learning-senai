@@ -116,7 +116,7 @@ public class ArvoreDecisao {
         frame.setSize(1000, 600);
         frame.setVisible(true);
 
-//        exibirArvore();
+        mostrarDecisaoUsuario(raiz);
 
     }
 
